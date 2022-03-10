@@ -1,0 +1,3 @@
+﻿  ObserverMain.cpp
+C:\Users\강유진\source\repos\GP_DP_Observer\GP_DP_Observer\ObserverMain.cpp(4,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  GP_DP_Observer.vcxproj -> C:\Users\강유진\source\repos\GP_DP_Observer\Debug\GP_DP_Observer.exe

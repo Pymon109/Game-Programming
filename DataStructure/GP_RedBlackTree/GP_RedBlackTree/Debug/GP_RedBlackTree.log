@@ -1,0 +1,5 @@
+﻿  RedBlackTree.cpp
+C:\Users\강유진\source\repos\GP_RedBlackTree\GP_RedBlackTree\RedBlackTree.cpp(3,39): warning C4091: 'typedef ': 변수를 선언하지 않으면 'EColor' 왼쪽은 무시됩니다.
+C:\Users\강유진\source\repos\GP_RedBlackTree\GP_RedBlackTree\RedBlackTree.cpp(11,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'tNode' 왼쪽은 무시됩니다.
+C:\Users\강유진\source\repos\GP_RedBlackTree\GP_RedBlackTree\RedBlackTree.cpp(41,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  GP_RedBlackTree.vcxproj -> C:\Users\강유진\source\repos\GP_RedBlackTree\Debug\GP_RedBlackTree.exe

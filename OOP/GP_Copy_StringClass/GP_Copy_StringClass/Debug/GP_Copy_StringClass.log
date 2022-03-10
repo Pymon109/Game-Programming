@@ -1,0 +1,37 @@
+﻿  Copy_StringClass.cpp
+C:\Users\강유진\source\repos\GP_Copy_StringClass\GP_Copy_StringClass\Copy_StringClass.cpp(15,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'const _Elem *'입니다.
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\강유진\source\repos\GP_Copy_StringClass\GP_Copy_StringClass\Copy_StringClass.cpp(16,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'const _Elem *'입니다.
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\강유진\source\repos\GP_Copy_StringClass\GP_Copy_StringClass\Copy_StringClass.cpp(18,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'const _Elem *'입니다.
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\강유진\source\repos\GP_Copy_StringClass\GP_Copy_StringClass\Copy_StringClass.cpp(19,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'const _Elem *'입니다.
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\강유진\source\repos\GP_Copy_StringClass\GP_Copy_StringClass\Copy_StringClass.cpp(20,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'const _Elem *'입니다.
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\강유진\source\repos\GP_Copy_StringClass\GP_Copy_StringClass\Copy_StringClass.cpp(21,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'const _Elem *'입니다.
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\강유진\source\repos\GP_Copy_StringClass\GP_Copy_StringClass\Copy_StringClass.cpp(125,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'const char *'입니다.
+C:\Users\강유진\source\repos\GP_Copy_StringClass\GP_Copy_StringClass\Copy_StringClass.cpp(127,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'const char *'입니다.
+C:\Users\강유진\source\repos\GP_Copy_StringClass\GP_Copy_StringClass\Copy_StringClass.cpp(129,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'const char *'입니다.
+C:\Users\강유진\source\repos\GP_Copy_StringClass\GP_Copy_StringClass\Copy_StringClass.cpp(130,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'const char *'입니다.
+C:\Users\강유진\source\repos\GP_Copy_StringClass\GP_Copy_StringClass\Copy_StringClass.cpp(204,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  GP_Copy_StringClass.vcxproj -> C:\Users\강유진\source\repos\GP_Copy_StringClass\Debug\GP_Copy_StringClass.exe

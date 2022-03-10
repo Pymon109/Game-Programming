@@ -1,0 +1,3 @@
+﻿  maincpp.cpp
+C:\Users\강유진\source\repos\CodeUp\Project1\maincpp.cpp(8,9): warning C4477: 'printf' : 서식 문자열 '%.1lf'에 'double' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 '__int64'입니다.
+  Project1.vcxproj -> C:\Users\강유진\source\repos\CodeUp\Debug\Q1001.exe

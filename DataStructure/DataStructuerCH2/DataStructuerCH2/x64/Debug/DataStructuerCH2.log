@@ -1,0 +1,6 @@
+﻿  Polynomial.cpp
+C:\Users\강유진\source\repos\DataStructuerCH2\DataStructuerCH2\Polynomial.cpp(24,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\강유진\source\repos\DataStructuerCH2\DataStructuerCH2\Polynomial.cpp(36,19): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\강유진\source\repos\DataStructuerCH2\DataStructuerCH2\Polynomial.cpp(50,19): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\강유진\source\repos\DataStructuerCH2\DataStructuerCH2\Polynomial.cpp(93,8): warning C4101: 'coef' :참조되지 않은 지역 변수입니다.
+  DataStructuerCH2.vcxproj -> C:\Users\강유진\source\repos\DataStructuerCH2\x64\Debug\DataStructuerCH2.exe

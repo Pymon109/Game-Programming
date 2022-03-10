@@ -1,0 +1,13 @@
+C:\Users\강유진\source\repos\CShapProject01\CShapProject01\bin\Debug\netcoreapp3.1\CShapProject01.exe
+C:\Users\강유진\source\repos\CShapProject01\CShapProject01\bin\Debug\netcoreapp3.1\CShapProject01.deps.json
+C:\Users\강유진\source\repos\CShapProject01\CShapProject01\bin\Debug\netcoreapp3.1\CShapProject01.runtimeconfig.json
+C:\Users\강유진\source\repos\CShapProject01\CShapProject01\bin\Debug\netcoreapp3.1\CShapProject01.runtimeconfig.dev.json
+C:\Users\강유진\source\repos\CShapProject01\CShapProject01\bin\Debug\netcoreapp3.1\CShapProject01.dll
+C:\Users\강유진\source\repos\CShapProject01\CShapProject01\bin\Debug\netcoreapp3.1\CShapProject01.pdb
+C:\Users\강유진\source\repos\CShapProject01\CShapProject01\obj\Debug\netcoreapp3.1\CShapProject01.csprojAssemblyReference.cache
+C:\Users\강유진\source\repos\CShapProject01\CShapProject01\obj\Debug\netcoreapp3.1\CShapProject01.AssemblyInfoInputs.cache
+C:\Users\강유진\source\repos\CShapProject01\CShapProject01\obj\Debug\netcoreapp3.1\CShapProject01.AssemblyInfo.cs
+C:\Users\강유진\source\repos\CShapProject01\CShapProject01\obj\Debug\netcoreapp3.1\CShapProject01.csproj.CoreCompileInputs.cache
+C:\Users\강유진\source\repos\CShapProject01\CShapProject01\obj\Debug\netcoreapp3.1\CShapProject01.dll
+C:\Users\강유진\source\repos\CShapProject01\CShapProject01\obj\Debug\netcoreapp3.1\CShapProject01.pdb
+C:\Users\강유진\source\repos\CShapProject01\CShapProject01\obj\Debug\netcoreapp3.1\CShapProject01.genruntimeconfig.cache

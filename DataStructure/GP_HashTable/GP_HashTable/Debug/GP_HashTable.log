@@ -1,0 +1,5 @@
+﻿  HashTable.cpp
+C:\Users\강유진\source\repos\GP_HashTable\GP_HashTable\HashTable.cpp(16,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\강유진\source\repos\GP_HashTable\GP_HashTable\HashTable.cpp(127,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'pad' 왼쪽은 무시됩니다.
+C:\Users\강유진\source\repos\GP_HashTable\GP_HashTable\HashTable.cpp(149,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  GP_HashTable.vcxproj -> C:\Users\강유진\source\repos\GP_HashTable\Debug\GP_HashTable.exe

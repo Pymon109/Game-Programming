@@ -1,0 +1,8 @@
+﻿  GameMain.cpp
+C:\Users\강유진\source\repos\GP_TextRPG_example\GP_TextRPG_example\Game.h(159,102): warning C4474: 'fprintf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\강유진\source\repos\GP_TextRPG_example\GP_TextRPG_example\Game.h(159,102): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 8개 필요하지만 9개가 제공되었습니다.
+C:\Users\강유진\source\repos\GP_TextRPG_example\GP_TextRPG_example\Game.h(327,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\강유진\source\repos\GP_TextRPG_example\GP_TextRPG_example\Game.h(333,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\강유진\source\repos\GP_TextRPG_example\GP_TextRPG_example\Game.h(504,11): warning C4129: 'O': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\강유진\source\repos\GP_TextRPG_example\GP_TextRPG_example\GameMain.cpp(4,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  GP_TextRPG_example.vcxproj -> C:\Users\강유진\source\repos\GP_TextRPG_example\Debug\GP_TextRPG_example.exe

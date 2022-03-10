@@ -1,0 +1,4 @@
+﻿  Graphcpp.cpp
+C:\Users\강유진\source\repos\GP_Graph\GP_Graph\Graphcpp.cpp(18,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\강유진\source\repos\GP_Graph\GP_Graph\Graphcpp.cpp(42,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  GP_Graph.vcxproj -> C:\Users\강유진\source\repos\GP_Graph\Debug\GP_Graph.exe

@@ -1,0 +1,5 @@
+﻿  textRPG.cpp
+C:\Users\강유진\source\repos\GP_textRPG\GP_textRPG\textRPG.h(205,25): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\강유진\source\repos\GP_textRPG\GP_textRPG\textRPG.h(221,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\강유진\source\repos\GP_textRPG\GP_textRPG\textRPG.cpp(85,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  GP_textRPG.vcxproj -> C:\Users\강유진\source\repos\GP_textRPG\Debug\GP_textRPG.exe

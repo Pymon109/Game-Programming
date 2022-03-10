@@ -1,0 +1,13 @@
+C:\Users\강유진\source\repos\CodingTest\CodingTest\obj\Debug\netcoreapp3.1\CodingTest.csprojAssemblyReference.cache
+C:\Users\강유진\source\repos\CodingTest\CodingTest\obj\Debug\netcoreapp3.1\CodingTest.AssemblyInfoInputs.cache
+C:\Users\강유진\source\repos\CodingTest\CodingTest\obj\Debug\netcoreapp3.1\CodingTest.AssemblyInfo.cs
+C:\Users\강유진\source\repos\CodingTest\CodingTest\obj\Debug\netcoreapp3.1\CodingTest.csproj.CoreCompileInputs.cache
+C:\Users\강유진\source\repos\CodingTest\CodingTest\bin\Debug\netcoreapp3.1\CodingTest.exe
+C:\Users\강유진\source\repos\CodingTest\CodingTest\bin\Debug\netcoreapp3.1\CodingTest.deps.json
+C:\Users\강유진\source\repos\CodingTest\CodingTest\bin\Debug\netcoreapp3.1\CodingTest.runtimeconfig.json
+C:\Users\강유진\source\repos\CodingTest\CodingTest\bin\Debug\netcoreapp3.1\CodingTest.runtimeconfig.dev.json
+C:\Users\강유진\source\repos\CodingTest\CodingTest\bin\Debug\netcoreapp3.1\CodingTest.dll
+C:\Users\강유진\source\repos\CodingTest\CodingTest\bin\Debug\netcoreapp3.1\CodingTest.pdb
+C:\Users\강유진\source\repos\CodingTest\CodingTest\obj\Debug\netcoreapp3.1\CodingTest.dll
+C:\Users\강유진\source\repos\CodingTest\CodingTest\obj\Debug\netcoreapp3.1\CodingTest.pdb
+C:\Users\강유진\source\repos\CodingTest\CodingTest\obj\Debug\netcoreapp3.1\CodingTest.genruntimeconfig.cache

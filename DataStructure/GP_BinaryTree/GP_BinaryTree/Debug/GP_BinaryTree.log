@@ -1,0 +1,4 @@
+﻿  BinaryTreecpp.cpp
+C:\Users\강유진\source\repos\GP_BinaryTree\GP_BinaryTree\BinaryTreecpp.cpp(8,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'sNode' 왼쪽은 무시됩니다.
+C:\Users\강유진\source\repos\GP_BinaryTree\GP_BinaryTree\BinaryTreecpp.cpp(21,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  GP_BinaryTree.vcxproj -> C:\Users\강유진\source\repos\GP_BinaryTree\Debug\GP_BinaryTree.exe

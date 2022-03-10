@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\Y210514\Y210514\bin\Debug\netcoreapp3.1\Y210514.exe
+C:\Users\Administrator\source\repos\Y210514\Y210514\bin\Debug\netcoreapp3.1\Y210514.deps.json
+C:\Users\Administrator\source\repos\Y210514\Y210514\bin\Debug\netcoreapp3.1\Y210514.runtimeconfig.json
+C:\Users\Administrator\source\repos\Y210514\Y210514\bin\Debug\netcoreapp3.1\Y210514.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Y210514\Y210514\bin\Debug\netcoreapp3.1\Y210514.dll
+C:\Users\Administrator\source\repos\Y210514\Y210514\bin\Debug\netcoreapp3.1\Y210514.pdb
+C:\Users\Administrator\source\repos\Y210514\Y210514\obj\Debug\netcoreapp3.1\Y210514.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Y210514\Y210514\obj\Debug\netcoreapp3.1\Y210514.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Y210514\Y210514\obj\Debug\netcoreapp3.1\Y210514.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Y210514\Y210514\obj\Debug\netcoreapp3.1\Y210514.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Y210514\Y210514\obj\Debug\netcoreapp3.1\Y210514.dll
+C:\Users\Administrator\source\repos\Y210514\Y210514\obj\Debug\netcoreapp3.1\Y210514.pdb
+C:\Users\Administrator\source\repos\Y210514\Y210514\obj\Debug\netcoreapp3.1\Y210514.genruntimeconfig.cache

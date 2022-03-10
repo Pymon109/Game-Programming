@@ -1,0 +1,3 @@
+﻿  SingleToneMain.cpp
+C:\Users\강유진\source\repos\GP_DesignPattern_SingleTone\GP_DesignPattern_SingleTone\SingleToneMain.cpp(6,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  GP_DesignPattern_SingleTone.vcxproj -> C:\Users\강유진\source\repos\GP_DesignPattern_SingleTone\Debug\GP_DesignPattern_SingleTone.exe

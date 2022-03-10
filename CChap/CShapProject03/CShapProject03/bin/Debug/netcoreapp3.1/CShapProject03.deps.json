@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CShapProject03/1.0.0": {
+        "runtime": {
+          "CShapProject03.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CShapProject03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

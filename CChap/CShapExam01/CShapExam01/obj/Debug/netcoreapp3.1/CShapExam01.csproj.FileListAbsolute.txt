@@ -1,0 +1,13 @@
+C:\Users\강유진\source\repos\CShapExam01\CShapExam01\bin\Debug\netcoreapp3.1\CShapExam01.exe
+C:\Users\강유진\source\repos\CShapExam01\CShapExam01\bin\Debug\netcoreapp3.1\CShapExam01.deps.json
+C:\Users\강유진\source\repos\CShapExam01\CShapExam01\bin\Debug\netcoreapp3.1\CShapExam01.runtimeconfig.json
+C:\Users\강유진\source\repos\CShapExam01\CShapExam01\bin\Debug\netcoreapp3.1\CShapExam01.runtimeconfig.dev.json
+C:\Users\강유진\source\repos\CShapExam01\CShapExam01\bin\Debug\netcoreapp3.1\CShapExam01.dll
+C:\Users\강유진\source\repos\CShapExam01\CShapExam01\bin\Debug\netcoreapp3.1\CShapExam01.pdb
+C:\Users\강유진\source\repos\CShapExam01\CShapExam01\obj\Debug\netcoreapp3.1\CShapExam01.csprojAssemblyReference.cache
+C:\Users\강유진\source\repos\CShapExam01\CShapExam01\obj\Debug\netcoreapp3.1\CShapExam01.AssemblyInfoInputs.cache
+C:\Users\강유진\source\repos\CShapExam01\CShapExam01\obj\Debug\netcoreapp3.1\CShapExam01.AssemblyInfo.cs
+C:\Users\강유진\source\repos\CShapExam01\CShapExam01\obj\Debug\netcoreapp3.1\CShapExam01.csproj.CoreCompileInputs.cache
+C:\Users\강유진\source\repos\CShapExam01\CShapExam01\obj\Debug\netcoreapp3.1\CShapExam01.dll
+C:\Users\강유진\source\repos\CShapExam01\CShapExam01\obj\Debug\netcoreapp3.1\CShapExam01.pdb
+C:\Users\강유진\source\repos\CShapExam01\CShapExam01\obj\Debug\netcoreapp3.1\CShapExam01.genruntimeconfig.cache
